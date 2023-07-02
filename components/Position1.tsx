@@ -27,6 +27,7 @@ const Projects = () => {
           image: "/images/icons8-api-100.png",
         },
       ],
+       options: ['soon'],
     },
     {
       id: 2,
@@ -57,6 +58,7 @@ const Projects = () => {
           image: "/images/insomnia.png",
         },
       ],
+            options: ['soon'],
     },
     {
       id: 3,
@@ -98,6 +100,7 @@ const Projects = () => {
         { id: 2, name: "Firebase", image: "/images/icons8-firebase-48.png" },
         { id: 3, name: "Java", image: "/images/icons8-java-64.png" },
       ],
+            options: ['soon'],
     },
 
     {
@@ -114,6 +117,7 @@ const Projects = () => {
         },
         { id: 2, name: "Open-AI", image: "/images/openai.webp" },
       ],
+            options: ['soon'],
     },
     {
       id: 7,
@@ -134,6 +138,7 @@ const Projects = () => {
           image: "/images/pandas.png",
         },
       ],
+            options: ['soon'],
     },
     {
       id: 8,
@@ -155,6 +160,7 @@ const Projects = () => {
         },
         { id: 4, name: "TenserFlow", image: "/images/tenserflow.jpg" },
       ],
+            options: ['soon'],
     },
     {
       id: 9,
@@ -184,6 +190,7 @@ const Projects = () => {
         },
         { id: 7, name: "BootStrap", image: "/images/bootstrap.png" },
       ],
+            options: ['soon'],
     },
     {
       id: 10,
@@ -204,6 +211,7 @@ const Projects = () => {
           image: "/images/icons8-npm-48.png",
         },
       ],
+            options: ['soon'],
     },
   ]);
   return (
