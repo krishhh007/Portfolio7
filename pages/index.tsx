@@ -14,9 +14,9 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Rohit Kumar Mandal</title>
-        <meta name="description" content="Rohit Kumar Mandal" />
-        <link rel="icon" href="/images/profile.jpg" />
+        <title>Krishnaraj S</title>
+        <meta name="description" content="Krishnaraj S" />
+        <link rel="icon" href="/images/krishhh1.jpeg" />
       </Head>
       <div className='max-w-screen-lg mx-auto pt-20 px-5'  >
         <Header />
