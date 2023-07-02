@@ -1,6 +1,6 @@
 import Image from "next/image";
 import { useState } from "react";
-const Projects = () => {
+const Position1 = () => {
   const [position] = useState([
     {
       id: 1,
@@ -271,4 +271,4 @@ const Projects = () => {
   );
 };
 
-export default Projects;
+export default Position1;
