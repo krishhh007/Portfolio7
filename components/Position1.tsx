@@ -1,6 +1,6 @@
 import Image from "next/image";
 import { useState } from "react";
-const Positionals = () => {
+const Position1 = () => {
   const [position] = useState([
     {
       id: 1,
@@ -271,4 +271,4 @@ const Positionals = () => {
   );
 };
 
-export default Positionals;
+export default Position1;
