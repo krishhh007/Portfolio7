@@ -26,6 +26,7 @@ const Positions = () => {
           image: "/images/icons8-jira-48.png",
         },
       ],
+       options: ['soon'],
     },
   ]);
   return (
