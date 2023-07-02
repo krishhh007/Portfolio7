@@ -4,7 +4,7 @@ import About from '../components/About'
 import Contacts from '../components/Contacts'
 import Header from '../components/Header'
 import Positions from '../components/Positions'
-import Projects from '../components/Projects'
+
 import Skills from '../components/Skills'
 import styles from '../styles/Home.module.css'
 import Footer from '../components/Footer'
