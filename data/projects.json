@@ -1,7 +1,7 @@
 [
    
     {"id": 1, "title": "Calculator","stack": ["html", "javascript", "css"], "description": "The calculator web app is a versatile and user-friendly tool designed to perform a wide range of mathematical calculations quickly and efficiently. Created using HTML, CSS, and JavaScript, this intuitive application provides users with a convenient way to perform basic arithmetic operations and more complex calculations.", "link": "https://calculatorgordxrohit.netlify.app/", "code": "https://github.com/GordxRohit/Calculator-task-4-lgm"},
-    {"id": 2, "title": "Food App", "stack": ["html", "tailwind css", "javascript"], "description": "Introducing our food web app, a delightful platform created using the power of HTML, CSS, JavaScript, and the modern styling framework Tailwind CSS. This interactive application aims to satisfy your culinary cravings and make your food exploration experience even more enjoyable.", "link": "https://rovinapp.netlify.app/", "code": "https://github.com/Krishnaraj017"},
+
 
 
     
