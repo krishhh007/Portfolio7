@@ -9,7 +9,7 @@ import Skills from '../components/Skills'
 import styles from '../styles/Home.module.css'
 import Footer from '../components/Footer'
 import Position1 from "../components/Position1";
-import Projects from "../components/Projects";
+
 
 export default function Home() {
   
@@ -27,7 +27,7 @@ export default function Home() {
         <Skills />
         <Positions />
         <Position1/>
-        <Projects/>
+        
         <Footer />
       </div>
     </div>
