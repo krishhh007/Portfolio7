@@ -1,3 +1,4 @@
+export {};
 // import { useState } from "react"
 // import { FaHandPointRight } from "react-icons/fa";
 // import Link from "next/link";
