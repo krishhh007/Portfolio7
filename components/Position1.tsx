@@ -241,12 +241,7 @@ const Projects = () => {
             )}
 
             <div className="mt-2">
-              {pos.options &&
-                pos.options.map((option) => (
-                  <li key={option} className="text-gray-400">
-                    {option}
-                  </li>
-                ))}
+             
             </div>
           </div>
         </div>
