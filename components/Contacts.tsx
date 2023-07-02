@@ -1,17 +1,59 @@
-import { BsGithub, BsTwitter, BsLinkedin, BsYoutube, BsInstagram, BsFacebook } from "react-icons/bs"
+import { BsGithub, BsTwitter, BsLinkedin, BsYoutube, BsInstagram, BsFacebook, BsWhatsapp } from "react-icons/bs"
 import { AiOutlineMail } from "react-icons/ai"
 import { BiUserCircle } from "react-icons/bi";
 import { useState } from "react"
 const Contacts = () => {
     const [contacts] = useState([
-        {id: 1, icon:<BsGithub className="text-gray-200"/>, title:'github', url:'https://github.com/GordxRohit' },
-        {id: 2, icon:<BsTwitter className="text-gray-200"/>, title:'twitter', url:'https://twitter.com/gordxrohit' },
-        {id: 3, icon:<BsLinkedin className="text-gray-200"/>, title:'linkedin', url:'https://in.linkedin.com/in/gordxrohit' },
-        {id: 4, icon:<BsYoutube className="text-gray-200"/>, title:'youtube', url:'https://m.youtube.com/c/GORDXROHIT' },
-        {id: 5, icon:<BsInstagram className="text-gray-200"/>, title:'instagram', url:'https://www.instagram.com/ig.gordxrohit/' },
-        {id: 6, icon:<BsFacebook className="text-gray-200"/>, title:'facebook', url:'https://m.facebook.com/rohit.mandal.56481379' },
-        {id: 7, icon:<AiOutlineMail className="text-gray-200"/>, title:'Email', url:'mailto:rohitmandal66225@gmail.com' },
-        {id: 8, icon:<BiUserCircle className="text-gray-200"/>, title:'download CV', url:'/files/rohitmandalcv.pdf' },
+      {
+        id: 1,
+        icon: <BsGithub className="text-gray-200" />,
+        title: "github",
+        url: "https://github.com/Krishnaraj017",
+      },
+      //{id: 2, icon:<BsTwitter className="text-gray-200"/>, title:'twitter', url:'https://twitter.com/gordxrohit' },
+      {
+        id: 2,
+        icon: <BsLinkedin className="text-gray-200" />,
+        title: "linkedin",
+        url: "https://www.linkedin.com/in/krishnaraj-shetty-b10617229",
+      },
+      {
+        id: 3,
+        icon: <AiOutlineMail className="text-gray-200" />,
+        title: "Email",
+        url: "mailto:krishnarajshetty699@gmail.com",
+      },
+      {
+        id: 4,
+        icon: <BsYoutube className="text-gray-200" />,
+        title: "youtube",
+        url: "https://www.youtube.com/channel/UCYjX3RIopQyJGXWxE6qPGbA",
+      },
+      {
+        id: 5,
+        icon: <BsInstagram className="text-gray-200" />,
+        title: "instagram",
+        url: "https://www.instagram.com/_krishhh_017/",
+      },
+      //   {
+      //     id: 6,
+      //     icon: <BsFacebook className="text-gray-200" />,
+      //     title: "facebook",
+      //     url: "https://m.facebook.com/rohit.mandal.56481379",
+      //   },
+
+      {
+        id: 6,
+        icon: <BsWhatsapp className="text-gray-200" />,
+        title: "WhatApp",
+        url: "https://whatsapp.com/dl",
+      },
+      {
+        id: 7,
+        icon: <BiUserCircle className="text-gray-200" />,
+        title: "download CV",
+        url: "/files/krishcv.pdf",
+      },
     ]);
   return (
     <div className="py-6 border-b border-zinc-700">
