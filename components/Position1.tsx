@@ -214,9 +214,10 @@ const Projects = () => {
           </div>
           <div className="flex-1">
             <h2 className="text-white capitalize">{pos.role}</h2>
-            <h5 className="text-gray-500 font-medium capitalize text-sm mt-[2px]">
-              {pos.type} - <span>{pos.date}</span>
-            </h5>
+           <h5 className="text-gray-500 font-medium capitalize text-sm mt-[2px]">
+  {pos.type}
+</h5>
+
             {pos.skills && (
               <div className="flex flex-wrap gap-2 my-2">
                 {pos.skills?.map((skill) => (
