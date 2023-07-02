@@ -7,6 +7,7 @@ const Projects = () => {
       image: "/images/icons8-chatbot-94.png",
       role: "MITE-CHATBOT",
       type: "ANDROID-APP",
+      date: "4/2020",
 
       skills: [
         {
@@ -32,6 +33,7 @@ const Projects = () => {
       image: "/images/icons8-job-64 (1).png",
       role: "JOB_FINDER",
       type: "HYBRID-APP",
+      date: "4/2020 ",
 
       skills: [
         {
@@ -61,6 +63,7 @@ const Projects = () => {
       image: "/images/icons8-building-64.png",
       role: "Find My PG ",
       type: "Hybrid App",
+      date: "4/2020 ",
       skills: [
         {
           id: 1,
@@ -85,6 +88,7 @@ const Projects = () => {
       role: "ChatBot For business work",
       type: "ANDROID-APP",
       //date: "4/2020 - present",
+      date: "4/2020 ",
       skills: [
         {
           id: 1,
@@ -101,6 +105,7 @@ const Projects = () => {
       image: "/images/chatgpt.webp",
       role: "CHAT-GPT ",
       type: "Hybrid App",
+            date: "4/2020 ",
       skills: [
         {
           id: 1,
@@ -115,6 +120,7 @@ const Projects = () => {
       image: "/images/icons8-motion-detector-48.png",
       role: "OBJECT MOTION DETECTOR",
       type: "computer vision project",
+        date: "4/2020 ",
       skills: [
         {
           id: 1,
@@ -134,6 +140,7 @@ const Projects = () => {
       image: "/images/icons8-emotion-64.png",
       role: "EMOTION DETECTOR",
       type: "computer vision project",
+        date: "4/2020 ",
       skills: [
         {
           id: 1,
@@ -154,6 +161,7 @@ const Projects = () => {
       image: "/images/icons8-licence-48.png",
       role: "Auto V Card",
       type: "WEB-APPLICATION",
+        date: "4/2020 ",
       skills: [
         {
           id: 1,
@@ -182,6 +190,7 @@ const Projects = () => {
       image: "/images/command line.webp",
       role: "quiez game",
       type: "Node.js CLI game",
+        date: "4/2020 ",
       skills: [
         {
           id: 1,
@@ -214,10 +223,9 @@ const Projects = () => {
           </div>
           <div className="flex-1">
             <h2 className="text-white capitalize">{pos.role}</h2>
-           <h5 className="text-gray-500 font-medium capitalize text-sm mt-[2px]">
-  {pos.type}
-</h5>
-
+            <h5 className="text-gray-500 font-medium capitalize text-sm mt-[2px]">
+              {pos.type} - <span>{pos.date}</span>
+            </h5>
             {pos.skills && (
               <div className="flex flex-wrap gap-2 my-2">
                 {pos.skills?.map((skill) => (
@@ -241,7 +249,12 @@ const Projects = () => {
             )}
 
             <div className="mt-2">
-             
+              {pos.options &&
+                pos.options.map((option) => (
+                  <li key={option} className="text-gray-400">
+                    {option}
+                  </li>
+                ))}
             </div>
           </div>
         </div>
@@ -251,4 +264,3 @@ const Projects = () => {
 };
 
 export default Projects;
-
