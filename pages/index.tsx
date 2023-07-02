@@ -25,6 +25,7 @@ export default function Home() {
         <Skills />
         <Positions />
         <Position1/>
+        <Projects/>
         <Footer />
       </div>
     </div>
