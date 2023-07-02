@@ -8,6 +8,7 @@ import Positions from '../components/Positions'
 import Skills from '../components/Skills'
 import styles from '../styles/Home.module.css'
 import Footer from '../components/Footer'
+import Position1 from "../components/Position1";
 
 export default function Home() {
   
