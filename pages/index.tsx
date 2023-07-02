@@ -24,7 +24,7 @@ export default function Home() {
         <About />
         <Skills />
         <Positions />
-{/*         <Projects /> */}
+        <Position1/>
         <Footer />
       </div>
     </div>
