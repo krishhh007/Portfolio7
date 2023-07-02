@@ -1,9 +1,10 @@
 [
-   
-    {"id": 1, "title": "Calculator","stack": ["html", "javascript", "css"], "description": "The calculator web app is a versatile and user-friendly tool designed to perform a wide range of mathematical calculations quickly and efficiently. Created using HTML, CSS, and JavaScript, this intuitive application provides users with a convenient way to perform basic arithmetic operations and more complex calculations.", "link": "https://calculatorgordxrohit.netlify.app/", "code": "https://github.com/GordxRohit/Calculator-task-4-lgm"},
-
-
-
-    
-
+    {
+        "id": 1,
+        "title": "Calculator",
+        "stack": ["html", "javascript", "css"],
+        "description": "The calculator web app is a versatile and user-friendly tool designed to perform a wide range of mathematical calculations quickly and efficiently. Created using HTML, CSS, and JavaScript, this intuitive application provides users with a convenient way to perform basic arithmetic operations and more complex calculations.",
+        "link": "https://calculatorgordxrohit.netlify.app/",
+        "code": "https://github.com/GordxRohit/Calculator-task-4-lgm"
+    }
 ]
