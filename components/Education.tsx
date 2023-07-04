@@ -4,7 +4,7 @@ const Education = () => {
   const [position] = useState([
     {
       id: 1,
-      image: "/images/mite-logo-org.png ",
+      image: "/images/mite-logo-org.png",
       role: "Bachelor’s of Engineering – Computer Science & Engineering ",
       type: "Mangalore Institute of Technology & Engineering.",
       date: "2020-2024  (CGPA-7.8)",
