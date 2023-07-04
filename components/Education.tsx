@@ -8,6 +8,11 @@ const Education = () => {
       role: "Bachelor’s of Engineering – Computer Science & Engineering ",
       type: "Mangalore Institute of Technology & Engineering.",
       date: "2020-2024  (CGPA-7.8)",
+       skills: [
+      { id: 1, image: "/path/to/skill-image.png", name: "Skill 1" }
+      
+      
+    ],
     },
     {
       id: 2,
