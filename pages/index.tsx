@@ -9,6 +9,7 @@ import Skills from '../components/Skills'
 import styles from '../styles/Home.module.css'
 import Footer from '../components/Footer'
 import Position1 from "../components/Position1";
+import Education from "../components/Education";
 
 
 export default function Home() {
@@ -25,6 +26,7 @@ export default function Home() {
         <Contacts />
         <About />
         <Skills />
+        <Education/>
         <Positions />
         <Position1/>
         
