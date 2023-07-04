@@ -10,6 +10,7 @@ import styles from '../styles/Home.module.css'
 import Footer from '../components/Footer'
 import Position1 from "../components/Position1";
 import Education from "../components/Education";
+import Projects from "../components/Projects";
 
 
 export default function Home() {
