@@ -29,7 +29,7 @@ export default function Home() {
         <Education/>
         <Positions />
         <Position1/>
-        
+         <Projects />
         <Footer />
       </div>
     </div>
