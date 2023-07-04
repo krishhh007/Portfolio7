@@ -31,7 +31,7 @@ const Position1 = () => {
     },
     {
       id: 2,
-      image: "/images/icons8-job-64 (1).png",
+      image: "/images/icons8-job-64(1).png",
       role: "JOB_FINDER",
       type: "HYBRID-APP",
       date: "4/2020 ",
