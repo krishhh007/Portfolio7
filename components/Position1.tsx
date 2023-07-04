@@ -103,24 +103,24 @@ const Position1 = () => {
             options: ['soon'],
     },
 
+    // {
+    //   id: 6,
+    //   image: "/images/chatgpt.webp",
+    //   role: "CHAT-GPT ",
+    //   type: "Hybrid App",
+    //         date: "4/2020 ",
+    //   skills: [
+    //     {
+    //       id: 1,
+    //       name: "Flutter",
+    //       image: "/images/flutter.png",
+    //     },
+    //     { id: 2, name: "Open-AI", image: "/images/openai.webp" },
+    //   ],
+    //         options: ['soon'],
+    // },
     {
       id: 6,
-      image: "/images/chatgpt.webp",
-      role: "CHAT-GPT ",
-      type: "Hybrid App",
-            date: "4/2020 ",
-      skills: [
-        {
-          id: 1,
-          name: "Flutter",
-          image: "/images/flutter.png",
-        },
-        { id: 2, name: "Open-AI", image: "/images/openai.webp" },
-      ],
-            options: ['soon'],
-    },
-    {
-      id: 7,
       image: "/images/icons8-motion-detector-48.png",
       role: "OBJECT MOTION DETECTOR",
       type: "computer vision project",
@@ -141,7 +141,7 @@ const Position1 = () => {
             options: ['soon'],
     },
     {
-      id: 8,
+      id: 7,
       image: "/images/icons8-emotion-64.png",
       role: "EMOTION DETECTOR",
       type: "computer vision project",
@@ -163,7 +163,7 @@ const Position1 = () => {
             options: ['soon'],
     },
     {
-      id: 9,
+      id: 8,
       image: "/images/icons8-licence-48.png",
       role: "Auto V Card",
       type: "WEB-APPLICATION",
@@ -193,7 +193,7 @@ const Position1 = () => {
             options: ['soon'],
     },
     {
-      id: 10,
+      id: 9,
       image: "/images/icons8-quiz-64.png",
       role: "quiz game",
       type: "Node.js CLI game",
