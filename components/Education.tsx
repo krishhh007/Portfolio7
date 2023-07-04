@@ -9,7 +9,7 @@ const Education = () => {
       type: "Mangalore Institute of Technology & Engineering.",
       date: "2020-2024  (CGPA-7.8)",
        skills: [
-      { id: 1, image: "/path/to/skill-image.png", name: "Skill 1" }
+      { id: 1, image: "/images/graduation-hat-vector-illustration-flat-600w-356361836.webp", name: "Computer Science" }
       
       
     ],
@@ -20,6 +20,11 @@ const Education = () => {
       role: "Senior Secondary (12th)",
       type: "S.R PU college,hebri.",
       date: "2018-2019",
+       skills: [
+      { id: 1, image: "/images/icons8-computer-science-64.png", name: "Pre-University" }
+      
+      
+    ],
     },
 
     {
@@ -28,6 +33,11 @@ const Education = () => {
       role: "Secondary School (SSLC)",
       type: "S.R Public School-CBSE,hebri.",
       date: "2016-2017",
+       skills: [
+      { id: 1, image: "/images/icons8-school-64.png", name: "Higher primary school" }
+      
+      
+    ],
     },
   ]);
   return (
