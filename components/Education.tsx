@@ -13,6 +13,11 @@ const Education = () => {
       
       
     ],
+       options: [
+      "",
+      
+      // Add more options as needed
+    ],
     },
     {
       id: 2,
@@ -24,6 +29,11 @@ const Education = () => {
       { id: 1, image: "/images/icons8-computer-science-64.png", name: "Pre-University" }
       
       
+    ],
+       options: [
+      "",
+    
+      // Add more options as needed
     ],
     },
 
@@ -37,6 +47,11 @@ const Education = () => {
       { id: 1, image: "/images/icons8-school-64.png", name: "Higher primary school" }
       
       
+    ],
+       options: [
+      "",
+      
+      // Add more options as needed
     ],
     },
   ]);
