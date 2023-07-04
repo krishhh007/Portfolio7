@@ -4,7 +4,7 @@ const Positions = () => {
   const [position] = useState([
     {
       id: 1,
-      image: "/images/Rosette final Logo 4K White BG.jpg ",
+      image: "/images/Rosette final Logo 4K White BG.jpg",
       role: "Rosette Smart Bottles-Full Stack Flutter Developer",
       type: "hybrid",
       date: "05/2023 - present  , 2mos",
