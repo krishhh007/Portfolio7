@@ -194,8 +194,8 @@ const Position1 = () => {
     },
     {
       id: 10,
-      image: "/images/command line.webp",
-      role: "quiez game",
+      image: "/images/icons8-quiz-64.png",
+      role: "quiz game",
       type: "Node.js CLI game",
         date: "4/2020 ",
       skills: [
