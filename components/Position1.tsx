@@ -60,8 +60,29 @@ const Position1 = () => {
       ],
             options: ['soon'],
     },
-    {
+      {
       id: 3,
+      image: "/images/icons8-quiz-64.png",
+      role: "quiz game",
+      type: "Node.js CLI game",
+        date: "4/2020 ",
+      skills: [
+        {
+          id: 1,
+          name: "Node.js",
+          image: "/images/node.png",
+        },
+        { id: 2, name: "javasript", image: "/images/javascript.png" },
+        {
+          id: 3,
+          name: "Node Package Manager (NPM)",
+          image: "/images/icons8-npm-48.png",
+        },
+      ],
+            options: ['soon'],
+    },
+    {
+      id: 4,
       image: "/images/icons8-building-64.png",
       role: "Find My PG ",
       type: "Hybrid App",
@@ -77,7 +98,7 @@ const Position1 = () => {
     },
 
     {
-      id: 4,
+      id: 5,
       image: "/images/icons8-body-mass-index-64.png",
       role: "BMI-CALCULATOR",
       type: "HYBRID-APP",
@@ -192,27 +213,7 @@ const Position1 = () => {
       ],
             options: ['soon'],
     },
-    {
-      id: 9,
-      image: "/images/icons8-quiz-64.png",
-      role: "quiz game",
-      type: "Node.js CLI game",
-        date: "4/2020 ",
-      skills: [
-        {
-          id: 1,
-          name: "Node.js",
-          image: "/images/node.png",
-        },
-        { id: 2, name: "javasript", image: "/images/javascript.png" },
-        {
-          id: 3,
-          name: "Node Package Manager (NPM)",
-          image: "/images/icons8-npm-48.png",
-        },
-      ],
-            options: ['soon'],
-    },
+  
   ]);
   return (
     <div className="py-6 border-b border-zinc-700">
