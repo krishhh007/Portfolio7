@@ -3,8 +3,8 @@
         "id": 1,
         "title": "MITE-CHATBOT",
         "stack": ["Java", "XML", "Android-Studio"],
-        "description": "The calculator web app is a versatile and user-friendly tool designed to perform a wide range of mathematical calculations quickly and efficiently. Created using HTML, CSS, and JavaScript, this intuitive application provides users with a convenient way to perform basic arithmetic operations and more complex calculations.",
+        "description": "Chatbot app which helps users to get everything they needed to know about Mangalore Institute of Technology.",
         "link": "https://calculatorgordxrohit.netlify.app/",
-        "code": "https://github.com/GordxRohit/Calculator-task-4-lgm"
+        "code": "https://github.com/Krishnaraj017/MITE-Chatbot"
     }
 ]
