@@ -15,7 +15,7 @@ const Contacts = () => {
         id: 2,
         icon: <BsLinkedin className="text-gray-200" />,
         title: "linkedin",
-        url: "https://www.linkedin.com/in/krishnaraj-shetty-b10617229",
+        url: "https://www.linkedin.com/in/krishnaraj-shetty-7s",
       },
       {
         id: 3,
