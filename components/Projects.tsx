@@ -8,7 +8,7 @@ const Projects = () => {
     const [projects] = useState(Data);
   return (
     <div className="py-6 ">
-    <h3 className="text-gray-400 capitalize text-lg font-medium mb-6">Projects & Accomplishments
+    <h3 className="text-gray-400 capitalize text-lg font-medium mb-6">Projects Demo and Link
 </h3>
     <div className="">
         {projects.map(project => (
