@@ -27,7 +27,7 @@ const Position1 = () => {
           image: "/images/icons8-api-100.png",
         },
       ],
-       options: ['soon'],
+       options: ['⇓'],
     },
     {
       id: 2,
@@ -58,7 +58,7 @@ const Position1 = () => {
           image: "/images/insomnia.png",
         },
       ],
-            options: ['soon'],
+            options: ['⇓'],
     },
       {
       id: 3,
@@ -79,7 +79,7 @@ const Position1 = () => {
           image: "/images/icons8-npm-48.png",
         },
       ],
-            options: ['soon'],
+            options: ['⇓'],
     },
     {
       id: 4,
@@ -121,7 +121,7 @@ const Position1 = () => {
         { id: 2, name: "Firebase", image: "/images/icons8-firebase-48.png" },
         { id: 3, name: "Java", image: "/images/icons8-java-64.png" },
       ],
-            options: ['soon'],
+            options: ['⇓'],
     },
 
     // {
@@ -138,7 +138,7 @@ const Position1 = () => {
     //     },
     //     { id: 2, name: "Open-AI", image: "/images/openai.webp" },
     //   ],
-    //         options: ['soon'],
+    //         options: ['⇓'],
     // },
     {
       id: 6,
@@ -159,7 +159,7 @@ const Position1 = () => {
           image: "/images/pandas.png",
         },
       ],
-            options: ['soon'],
+            options: ['⇓'],
     },
     {
       id: 7,
@@ -181,7 +181,7 @@ const Position1 = () => {
         },
         { id: 4, name: "TenserFlow", image: "/images/tenserflow.jpg" },
       ],
-            options: ['soon'],
+            options: ['⇓'],
     },
     {
       id: 8,
@@ -211,7 +211,7 @@ const Position1 = () => {
         },
         { id: 7, name: "BootStrap", image: "/images/bootstrap.png" },
       ],
-            options: ['soon'],
+            options: ['⇓'],
     },
   
   ]);
