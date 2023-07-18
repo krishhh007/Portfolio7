@@ -33,7 +33,7 @@ const Education = () => {
        options: [
       "",
     
-      // Add more options as needed
+      // Add more
     ],
     },
 
@@ -44,7 +44,7 @@ const Education = () => {
       type: "S.R Public School-CBSE,hebri.",
       date: "2016-2017",
        skills: [
-      { id: 1, image: "/images/icons8-school-64.png", name: "CBSE" }
+      { id: 1, image: "/images/cbse.png", name: "CBSE" }
       
       
     ],
