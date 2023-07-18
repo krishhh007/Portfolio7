@@ -1,5 +1,6 @@
 import Image from "next/image";
 import { useState } from "react";
+
 const Positions = () => {
   const [position] = useState([
     {
@@ -12,23 +13,18 @@ const Positions = () => {
         { id: 1, name: "Figma", image: "/images/figma.png" },
         { id: 2, name: "Flutter", image: "/images/flutter.png" },
         { id: 3, name: "bloc", image: "/images/bloc.webp" },
-
         { id: 4, name: "Firebase", image: "/images/icons8-firebase-48.png" },
-        {
-          id: 5,
-          name: "REST API's",
-          image: "/images/icons8-rest-api-64.png",
-        },
+        { id: 5, name: "REST API's", image: "/images/icons8-rest-api-64.png" },
         { id: 6, name: "github", image: "/images/git.png" },
-        {
-          id: 7,
-          name: "Jira Lead",
-          image: "/images/icons8-jira-48.png",
-        },
+        { id: 7, name: "Jira administrator", image: "/images/icons8-jira-48.png" },
       ],
-       options: ['https://www.rosettesmartbottles.com/'],
+      links: [
+        { id: 1, url: "https://www.rosettesmartbottles.com/" },
+        { id: 2, url: "https://www.linkedin.com/company/rosette-smart-bottles/mycompany/" }
+      ],
     },
   ]);
+
   return (
     <div className="py-6 border-b border-zinc-700">
       <h3 className="text-gray-400 capitalize text-lg font-medium">
@@ -72,12 +68,22 @@ const Positions = () => {
             )}
 
             <div className="mt-2">
-              {pos.options &&
-                pos.options.map((option) => (
-                  <li key={option} className="text-gray-400">
-                    {option}
-                  </li>
-                ))}
+              {pos.links && (
+                <ul className="list-disc pl-5">
+                  {pos.links.map((link) => (
+                    <li key={link.id}>
+                      <a
+                        href={link.url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="text-gray-400"
+                      >
+                        {link.url}
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              )}
             </div>
           </div>
         </div>
