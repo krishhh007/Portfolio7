@@ -2,17 +2,57 @@
     {
         "id": 1,
         "title": "MITE-CHATBOT",
-        "stack": ["Java", "XML", "Android-Studio"],
+        "stack": ["JAVA", "XML", "ANDROID-STUDIO"],
         "description": "Chatbot app which helps users to get everything they needed to know about Mangalore Institute of Technology.",
         "link": "https://github.com/Krishnaraj017/MITE-Chatbot",
         "code": "https://github.com/Krishnaraj017/MITE-Chatbot"
     },
-     {
+        {
         "id": 2,
-        "title": "Tourism ",
-        "stack": ["Java", "XML", "Android-Studio"],
-        "description": "Chatbot app which helps users to get everything they needed to know about Mangalore Institute of Technology.",
-        "link": "https://github.com/Krishnaraj017/MITE-Chatbot",
-        "code": "https://github.com/Krishnaraj017/MITE-Chatbot"
+        "title": "JOB-FINDER",
+        "stack": ["REACT NATIVE", "EXPO", "RAPIDAPI"],
+        "description": "The app offers comprehensive job search functionality, empowering users to find employment opportunities that match their preferences. With customizable filters, users can refine their search based on criteria such as  industry, job type. The platform also allows users to save job listings of interest for future reference, enabling them to easily revisit and review them later.",
+        "link": "https://github.com/Krishnaraj017/Job-Finder-App",
+        "code": "https://github.com/Krishnaraj017/Job-Finder-App"
+    },
+    {
+        "id": 3,
+        "title": "QUIZ GAME",
+        "stack": ["NODE.JS", "NODE PACKAGE MANAGER(NPM)", "JAVASCRIPT"],
+        "description": "This is a Node.js CLI game built with Inquirer library where you get to answer a series of JavaScript-related questions, You win the game by answering all the questions correctly.",
+        "link": "https://github.com/Krishnaraj017/CLI-Game-Node.js-",
+        "code": "https://github.com/Krishnaraj017/CLI-Game-Node.js-"
+    },
+    {
+        "id": 4,
+        "title": "EMOTION EYE",
+        "stack": ["ANDROID-STUDIO", "KOTLIN", "FIREBASE ML"],
+        "description": "EmotionEye is an emotion detection application built using Firebase ML Kit and Kotlin. It leverages the power of machine learning to analyze and identify human emotions from images accurately. With EmotionEye, you can gain valuable insights into the emotional states of individuals, enabling you to develop applications in various domains such as market research, customer feedback analysis, and human-computer interaction.",
+        "link": "https://github.com/Krishnaraj017/EmotionEye",
+        "code": "https://github.com/Krishnaraj017/EmotionEye"
+    },
+    {
+        "id": 5,
+        "title": "BMI-CALCULATOR",
+        "stack": ["FLUTTER"],
+        "description": "The Body Mass Calculator App is a simple application designed to calculate the body mass index (BMI) of an individual. BMI is a commonly used measure to determine if a person has a healthy weight for their height. The app is built in Flutter and can be easily used on any device. The user enters their weight and height, and the app automatically calculates their BMI and displays the results.",
+        "link": "https://github.com/Krishnaraj017/BMI-Calculator",
+        "code": "https://github.com/Krishnaraj017/BMI-Calculator"
+    },
+        {
+        "id": 6,
+        "title": "CHATBOT FOR BUSINESS WORK",
+        "stack": ["ANDROID-STUDIO", "FIREBASE", "JAVA", "BRAINSHOP API"],
+        "description": "The chatbot interprets the user's input, understands the context and intent, and generates relevant responses accordingly. It can answer questions, provide recommendations, perform tasks, offer customer support, and even engage in casual conversations.",
+        "link": "https://github.com/Krishnaraj017/ChatBot-App",
+        "code": "https://github.com/Krishnaraj017/ChatBot-App"
+    },
+     {
+        "id": 7,
+        "title": "Tourism Experience",
+        "stack": ["HTML", "CSS", "JAVASCRIPT"],
+        "description": "Website for Tourists.",
+        "link": "https://tourismnexpr.netlify.app/",
+        "code": "https://github.com/Krishnaraj017/TOURISM-AND-EXPERIENCE"
     },
 ]
