@@ -95,6 +95,7 @@ const Position1 = () => {
         },
         { id: 2, name: "Expo", image: "/images/expo.png" },
       ],
+      options: ['⇓'],
     },
 
     {
@@ -124,24 +125,24 @@ const Position1 = () => {
             options: ['⇓'],
     },
 
-    // {
-    //   id: 6,
-    //   image: "/images/chatgpt.webp",
-    //   role: "CHAT-GPT ",
-    //   type: "Hybrid App",
-    //         date: "4/2020 ",
-    //   skills: [
-    //     {
-    //       id: 1,
-    //       name: "Flutter",
-    //       image: "/images/flutter.png",
-    //     },
-    //     { id: 2, name: "Open-AI", image: "/images/openai.webp" },
-    //   ],
-    //         options: ['⇓'],
-    // },
     {
       id: 6,
+      image: "/images/chatgpt.webp",
+      role: "CHAT-GPT ",
+      type: "Hybrid App",
+            date: "4/2020 ",
+      skills: [
+        {
+          id: 1,
+          name: "Flutter",
+          image: "/images/flutter.png",
+        },
+        { id: 2, name: "Open-AI", image: "/images/openai.webp" },
+      ],
+            options: ['⇓'],
+    },
+    {
+      id: 7,
       image: "/images/icons8-motion-detector-48.png",
       role: "OBJECT MOTION DETECTOR",
       type: "computer vision project",
@@ -162,7 +163,7 @@ const Position1 = () => {
             options: ['⇓'],
     },
     {
-      id: 7,
+      id: 8,
       image: "/images/icons8-emotion-64.png",
       role: "EMOTION DETECTOR",
       type: "computer vision project",
@@ -184,7 +185,7 @@ const Position1 = () => {
             options: ['⇓'],
     },
     {
-      id: 8,
+      id: 9,
       image: "/images/icons8-licence-48.png",
       role: "Auto V Card",
       type: "WEB-APPLICATION",
