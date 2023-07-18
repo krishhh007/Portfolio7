@@ -214,6 +214,32 @@ const Position1 = () => {
       ],
             options: ['⇓'],
     },
+     {
+      id: 9,
+      image: "/images/icons8-school-64.png",
+      role: "EmotionEye",
+      type: "ANDROID-APP",
+      date: "4/2020 ",
+
+      skills: [
+        {
+          id: 1,
+          name: "Android-Studio",
+          image: "/images/icons8-android-studio-48.png",
+        },
+        {
+          id: 2,
+          name: "Kotlin",
+          image: "/images/expo.png",
+        },
+        {
+          id: 3,
+          name: "Firebase ML",
+          image: "/images/rapidapi.png",
+        },
+      ],
+            options: [''],
+    },
   
   ]);
   return (
