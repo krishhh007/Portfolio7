@@ -7,7 +7,7 @@ const Position1 = () => {
       image: "/images/icons8-chatbot-94.png",
       role: "MITE-CHATBOT",
       type: "ANDROID-APP",
-      date: "4/2020",
+      date: "6/2023",
 
       skills: [
         {
@@ -34,7 +34,7 @@ const Position1 = () => {
       image: "/images/icons8-school-64.png",
       role: "JOB_FINDER",
       type: "HYBRID-APP",
-      date: "4/2020 ",
+      date: "4/2023 ",
 
       skills: [
         {
@@ -65,7 +65,7 @@ const Position1 = () => {
       image: "/images/icons8-quiz-64.png",
       role: "quiz game",
       type: "Node.js CLI game",
-        date: "4/2020 ",
+        date: "4/2023 ",
       skills: [
         {
           id: 1,
@@ -86,7 +86,7 @@ const Position1 = () => {
       image: "/images/icons8-school-64.png",
       role: "EmotionEye",
       type: "ANDROID-APP",
-      date: "4/2020 ",
+      date: "7/2023 ",
 
       skills: [
         {
@@ -112,7 +112,7 @@ const Position1 = () => {
       image: "/images/icons8-building-64.png",
       role: "Find My PG ",
       type: "Hybrid App",
-      date: "4/2020 ",
+      date: "7/2022 ",
       skills: [
         {
           id: 1,
@@ -129,7 +129,7 @@ const Position1 = () => {
       image: "/images/icons8-body-mass-index-64.png",
       role: "BMI-CALCULATOR",
       type: "HYBRID-APP",
-
+      date: "1/2023",
       skills: [{ id: 1, name: "Flutter", image: "/images/flutter.png" }],
     },
     {
@@ -138,7 +138,7 @@ const Position1 = () => {
       role: "ChatBot For business work",
       type: "ANDROID-APP",
       //date: "4/2020 - present",
-      date: "4/2020",
+      date: "4/2023",
       skills: [
         {
           id: 1,
@@ -156,7 +156,7 @@ const Position1 = () => {
       image: "/images/chatgpt.webp",
       role: "CHAT-GPT ",
       type: "Hybrid App",
-            date: "4/2020 ",
+            date: "3/2023 ",
       skills: [
         {
           id: 1,
@@ -172,7 +172,7 @@ const Position1 = () => {
       image: "/images/icons8-motion-detector-48.png",
       role: "OBJECT MOTION DETECTOR",
       type: "computer vision project",
-        date: "4/2020 ",
+        date: "4/2023 ",
       skills: [
         {
           id: 1,
@@ -193,7 +193,7 @@ const Position1 = () => {
       image: "/images/icons8-emotion-64.png",
       role: "EMOTION DETECTOR",
       type: "computer vision project",
-        date: "4/2020 ",
+        date: "3/2023",
       skills: [
         {
           id: 1,
@@ -215,7 +215,7 @@ const Position1 = () => {
       image: "/images/icons8-licence-48.png",
       role: "Auto V Card",
       type: "WEB-APPLICATION",
-        date: "4/2020 ",
+        date: "12/2022 ",
       skills: [
         {
           id: 1,
@@ -246,7 +246,7 @@ const Position1 = () => {
       image: "/images/icons8-tourism-96.png",
       role: "Tourism Experience",
       type: "WEB-APPLICATION",
-        date: "4/2020 ",
+        date: "5/2020 ",
       skills: [
         {
           id: 1,
