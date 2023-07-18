@@ -206,7 +206,7 @@ const Position1 = () => {
           name: "Keras",
           image: "/images/keras.png",
         },
-        { id: 4, name: "TenserFlow", image: "/images/tenserflow.jpg" },
+        { id: 4, name: "TensorFlow", image: "/images/tenserflow.jpg" },
       ],
             options: ['⇓'],
     },
