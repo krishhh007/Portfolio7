@@ -27,7 +27,7 @@
         "id": 4,
         "title": "EMOTION EYE",
         "stack": ["ANDROID-STUDIO", "KOTLIN", "FIREBASE ML"],
-        "description": "EmotionEye is an emotion detection application built using Firebase ML Kit and Kotlin. It leverages the power of machine learning to analyze and identify human emotions from images accurately. With EmotionEye, you can gain valuable insights into the emotional states of individuals, enabling you to develop applications in various domains such as market research, customer feedback analysis, and human-computer interaction.",
+        "description": "EmotionEye is an emotion detection application, especially smile and it is built using Firebase ML Kit and Kotlin. It leverages the power of machine learning to analyze and identify human emotions from images accurately. With EmotionEye, you can gain valuable insights into the emotional states of individuals, enabling you to develop applications in various domains such as market research, customer feedback analysis, and human-computer interaction.",
         "link": "https://github.com/Krishnaraj017/EmotionEye",
         "code": "https://github.com/Krishnaraj017/EmotionEye"
     },
