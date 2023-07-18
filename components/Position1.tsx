@@ -27,7 +27,7 @@ const Position1 = () => {
           image: "/images/icons8-api-100.png",
         },
       ],
-       options: ['⇓'],
+       options: [''],
     },
     {
       id: 2,
@@ -58,7 +58,7 @@ const Position1 = () => {
           image: "/images/insomnia.png",
         },
       ],
-            options: ['⇓'],
+            options: [''],
     },
       {
       id: 3,
@@ -79,7 +79,7 @@ const Position1 = () => {
           image: "/images/icons8-npm-48.png",
         },
       ],
-            options: ['⇓'],
+            options: [''],
     },
      {
       id: 4,
@@ -121,7 +121,7 @@ const Position1 = () => {
         },
         { id: 2, name: "Expo", image: "/images/expo.png" },
       ],
-      options: ['⇓'],
+      options: [''],
     },
 
     {
@@ -148,7 +148,7 @@ const Position1 = () => {
         { id: 2, name: "Firebase", image: "/images/icons8-firebase-48.png" },
         { id: 3, name: "Java", image: "/images/icons8-java-64.png" },
       ],
-            options: ['⇓'],
+            options: [''],
     },
 
     {
@@ -165,7 +165,7 @@ const Position1 = () => {
         },
         { id: 2, name: "Open-AI", image: "/images/openai.webp" },
       ],
-            options: ['⇓'],
+            options: [''],
     },
     {
       id: 8,
@@ -186,7 +186,7 @@ const Position1 = () => {
           image: "/images/pandas.png",
         },
       ],
-            options: ['⇓'],
+            options: [''],
     },
     {
       id: 9,
@@ -208,7 +208,7 @@ const Position1 = () => {
         },
         { id: 4, name: "TensorFlow", image: "/images/tenserflow.jpg" },
       ],
-            options: ['⇓'],
+            options: [''],
     },
     {
       id: 10,
@@ -238,7 +238,7 @@ const Position1 = () => {
         },
         { id: 7, name: "BootStrap", image: "/images/bootstrap.png" },
       ],
-            options: ['⇓'],
+            options: [''],
     },
     
      {
