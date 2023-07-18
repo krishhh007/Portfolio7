@@ -243,7 +243,7 @@ const Position1 = () => {
     
      {
       id: 11,
-      image: "/images/icons8-licence-48.png",
+      image: "/images/icons8-tourism-96.png",
       role: "Tourism Experience",
       type: "WEB-APPLICATION",
         date: "4/2020 ",
