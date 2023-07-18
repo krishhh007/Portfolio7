@@ -7,7 +7,7 @@ const Education = () => {
       image: "/images/mite-logo-org.png",
       role: "Bachelor’s of Engineering – Computer Science & Engineering ",
       type: "Mangalore Institute of Technology & Engineering.",
-      date: "2020-2024  (CGPA-7.8)",
+      date: "2020-2024",
        skills: [
       { id: 1, image: "/images/graduation-hat-vector-illustration-flat-600w-356361836.webp", name: "Computer Science" }
       
