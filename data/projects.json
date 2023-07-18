@@ -50,7 +50,7 @@
     {
         "id": 7,
         "title": "CHAT-GPT",
-        "stack": ["FLUTTER", "OPEN-AI",],
+        "stack": ["FLUTTER", "OPEN-AI"],
         "description": "ChatGPT App is a simple mobile application built on Flutter, which allows users to chat with an AI-powered conversational agent called ChatGPT. ChatGPT is a language model trained by OpenAI, based on the GPT-3.5 architecture, which can understand and respond to natural language input.",
         "link": "https://github.com/Krishnaraj017/ChatGPT-App",
         "code": "https://github.com/Krishnaraj017/ChatGPT-App"
@@ -58,7 +58,7 @@
         {
         "id": 8,
         "title": "OBJECT MOTION DETECTOR",
-        "stack": ["Python", "OpenCV", "Pandas",],
+        "stack": ["Python", "OpenCV", "Pandas"],
         "description": "This project detects motion in a video stream from a webcam and generates a CSV file with the start and end times of each motion event.",
         "link": "https://github.com/Krishnaraj017/Object-Motion-detector",
         "code": "https://github.com/Krishnaraj017/Object-Motion-detector"
@@ -70,6 +70,14 @@
         "description": "This project is an implementation of Emotion Detection using Keras, AI, and Python. It uses a deep neural network (DNN) to analyze facial expressions and detect the emotion being displayed. The DNN is trained on a dataset of images labeled with the four basic emotions: happy, sad, angry, surprised.",
         "link": "https://github.com/Krishnaraj017/Emotion-Detector",
         "code": "https://github.com/Krishnaraj017/Emotion-Detector"
+    },
+     {
+        "id": 10,
+        "title": "AUTO V CARD",
+        "stack": ["HTML", "CSS", "FLASK", "MYSQL", "PHP", "APACHE"],
+        "description": "Auto V Card is a web application that enables users to manage and retrieve their RTO data in a PDF format. It provides a convenient way to store and organize vehicle-related information using a user-friendly interface.",
+        "link": "https://github.com/Krishnaraj017/AutoVcard",
+        "code": "https://github.com/Krishnaraj017/AutoVcard"
     },
      {
         "id": 11,
