@@ -22,7 +22,7 @@ const Positions = () => {
         { id: 6, name: "github", image: "/images/git.png" },
         {
           id: 7,
-          name: "Jira administrator",
+          name: "Jira Lead",
           image: "/images/icons8-jira-48.png",
         },
       ],
