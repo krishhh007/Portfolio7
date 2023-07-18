@@ -72,7 +72,7 @@ const Position1 = () => {
           name: "Node.js",
           image: "/images/node.png",
         },
-        { id: 2, name: "javasript", image: "/images/javascript.png" },
+        { id: 2, name: "javascript", image: "/images/javascript.png" },
         {
           id: 3,
           name: "Node Package Manager (NPM)",
@@ -81,8 +81,34 @@ const Position1 = () => {
       ],
             options: ['⇓'],
     },
-    {
+     {
       id: 4,
+      image: "/images/icons8-school-64.png",
+      role: "EmotionEye",
+      type: "ANDROID-APP",
+      date: "4/2020 ",
+
+      skills: [
+        {
+          id: 1,
+          name: "Android-Studio",
+          image: "/images/icons8-android-studio-48.png",
+        },
+        {
+          id: 2,
+          name: "Kotlin",
+          image: "/images/icons8-kotlin-96.png",
+        },
+        {
+          id: 3,
+          name: "Firebase ML",
+          image: "/images/firebaseml.jpg",
+        },
+      ],
+            options: [''],
+    },
+    {
+      id: 5,
       image: "/images/icons8-building-64.png",
       role: "Find My PG ",
       type: "Hybrid App",
@@ -107,12 +133,12 @@ const Position1 = () => {
       skills: [{ id: 1, name: "Flutter", image: "/images/flutter.png" }],
     },
     {
-      id: 5,
+      id: 6,
       image: "/images/icons8-chatbot-64.png",
       role: "ChatBot For business work",
       type: "ANDROID-APP",
       //date: "4/2020 - present",
-      date: "4/2020 ",
+      date: "4/2020",
       skills: [
         {
           id: 1,
@@ -126,7 +152,7 @@ const Position1 = () => {
     },
 
     {
-      id: 6,
+      id: 7,
       image: "/images/chatgpt.webp",
       role: "CHAT-GPT ",
       type: "Hybrid App",
@@ -142,7 +168,7 @@ const Position1 = () => {
             options: ['⇓'],
     },
     {
-      id: 7,
+      id: 8,
       image: "/images/icons8-motion-detector-48.png",
       role: "OBJECT MOTION DETECTOR",
       type: "computer vision project",
@@ -163,7 +189,7 @@ const Position1 = () => {
             options: ['⇓'],
     },
     {
-      id: 8,
+      id: 9,
       image: "/images/icons8-emotion-64.png",
       role: "EMOTION DETECTOR",
       type: "computer vision project",
@@ -185,7 +211,7 @@ const Position1 = () => {
             options: ['⇓'],
     },
     {
-      id: 9,
+      id: 10,
       image: "/images/icons8-licence-48.png",
       role: "Auto V Card",
       type: "WEB-APPLICATION",
@@ -214,28 +240,22 @@ const Position1 = () => {
       ],
             options: ['⇓'],
     },
+    
      {
-      id: 9,
-      image: "/images/icons8-school-64.png",
-      role: "EmotionEye",
-      type: "ANDROID-APP",
-      date: "4/2020 ",
-
+      id: 11,
+      image: "/images/icons8-licence-48.png",
+      role: "Tourism Experience",
+      type: "WEB-APPLICATION",
+        date: "4/2020 ",
       skills: [
         {
           id: 1,
-          name: "Android-Studio",
-          image: "/images/icons8-android-studio-48.png",
+          name: "HTML",
+          image: "/images/html.png",
         },
+        { id: 2, name: "CSS", image: "/images/css.png" },
         {
-          id: 2,
-          name: "Kotlin",
-          image: "/images/expo.png",
-        },
-        {
-          id: 3,
-          name: "Firebase ML",
-          image: "/images/rapidapi.png",
+          id: 3, name: "javascript", image: "/images/javascript.png"
         },
       ],
             options: [''],
