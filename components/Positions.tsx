@@ -15,12 +15,12 @@ const Positions = () => {
         { id: 3, name: "bloc", image: "/images/bloc.webp" },
         { id: 4, name: "Firebase", image: "/images/icons8-firebase-48.png" },
         { id: 5, name: "REST API's", image: "/images/icons8-rest-api-64.png" },
-        { id: 6, name: "github", image: "/images/git.png" },
-        { id: 7, name: "Jira administrator", image: "/images/icons8-jira-48.png" },
+        { id: 6, name: "GitHub", image: "/images/git.png" },
+        { id: 7, name: "Jira", image: "/images/icons8-jira-48.png" },
       ],
       links: [
         { id: 1, url: "https://www.rosettesmartbottles.com/" },
-        { id: 2, url: "https://www.linkedin.com/company/rosette-smart-bottles/mycompany/" }
+        { id: 2, url: "https://shorturl.at/zGIW0" }
       ],
     },
   ]);
