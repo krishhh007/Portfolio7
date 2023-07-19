@@ -81,10 +81,18 @@
     },
      {
         "id": 11,
-        "title": "Tourism Experience",
+        "title": "TOURISM EXPERIENCE",
         "stack": ["HTML", "CSS", "JAVASCRIPT"],
         "description": "Website for Tourists.",
         "link": "https://tourismnexpr.netlify.app/",
         "code": "https://github.com/Krishnaraj017/TOURISM-AND-EXPERIENCE"
+    },
+    {
+        "id": 12,
+        "title": "FIND MY PG",
+        "stack": ["REACT NATIVE", "EXPO"],
+        "description": "Find My PG App is a mobile application designed to assist college students in finding nearby rental rooms or paying for guest accommodations. Whether you're a student moving to a new city or searching for a better living arrangement, this app simplifies the process by providing a platform to discover suitable options conveniently.",
+        "link": "https://github.com/Krishnaraj017/Pg-Finder-App",
+        "code": "https://github.com/Krishnaraj017/Pg-Finder-App"
     }
 ]
