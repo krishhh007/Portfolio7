@@ -83,7 +83,7 @@ const Position1 = () => {
     },
      {
       id: 4,
-      image: "/images/icons8-emotion-64.png",
+      image: "/images/icons8-emotion-96.png",
       role: "EmotionEye",
       type: "ANDROID-APP",
       date: "7/2023 ",
