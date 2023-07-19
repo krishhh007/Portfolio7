@@ -7,7 +7,7 @@ const Header = () => {
   const [name] = useState<string>("Krishnaraj S");
   const [role] = useState<string>("Aspiring Full Stack Engineer");
   const [location] = useState<string>("India, Karnataka");
-  const [exp] = useState<string>("Almost 3 years of experience in");
+  const [exp] = useState<string>("Student");
   const [education] = useState<string>("Computer science Engineering");
   return (
     <div className="flex items-center flex-wrap space-y-5 sm:space-x-10 border-b border-zinc-700 pb-6">
