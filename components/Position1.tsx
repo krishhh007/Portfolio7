@@ -60,8 +60,17 @@ const Position1 = () => {
       ],
             options: [''],
     },
-      {
+        {
       id: 3,
+      image: "/images/icons8-body-mass-index-64.png",
+      role: "FitLife",
+      type: "WEB-APP",
+      date: "7/2023",
+      skills: [{ id: 1, name: "Flutter", image: "/images/flutter.png" },],
+    },
+
+      {
+      id: 4,
       image: "/images/icons8-quiz-64.png",
       role: "quiz game",
       type: "Node.js CLI game",
@@ -82,7 +91,7 @@ const Position1 = () => {
             options: [''],
     },
      {
-      id: 4,
+      id: 5,
       image: "/images/icons8-emotion-96.png",
       role: "EmotionEye",
       type: "ANDROID-APP",
@@ -108,7 +117,7 @@ const Position1 = () => {
             options: [''],
     },
     {
-      id: 5,
+      id: 6,
       image: "/images/icons8-building-64.png",
       role: "Find My PG ",
       type: "Hybrid App",
@@ -125,7 +134,7 @@ const Position1 = () => {
     },
 
     {
-      id: 5,
+      id: 7,
       image: "/images/icons8-body-mass-index-64.png",
       role: "BMI-CALCULATOR",
       type: "HYBRID-APP",
@@ -133,7 +142,7 @@ const Position1 = () => {
       skills: [{ id: 1, name: "Flutter", image: "/images/flutter.png" }],
     },
     {
-      id: 6,
+      id: 8,
       image: "/images/icons8-chatbot-64.png",
       role: "ChatBot For business work",
       type: "ANDROID-APP",
@@ -152,7 +161,7 @@ const Position1 = () => {
     },
 
     {
-      id: 7,
+      id: 9,
       image: "/images/chatgpt.webp",
       role: "CHAT-GPT ",
       type: "Hybrid App",
@@ -168,7 +177,7 @@ const Position1 = () => {
             options: [''],
     },
     {
-      id: 8,
+      id: 10,
       image: "/images/icons8-motion-detector-48.png",
       role: "OBJECT MOTION DETECTOR",
       type: "computer vision project",
@@ -189,7 +198,7 @@ const Position1 = () => {
             options: [''],
     },
     {
-      id: 9,
+      id: 11,
       image: "/images/icons8-emotion-64.png",
       role: "EMOTION DETECTOR",
       type: "computer vision project",
@@ -211,7 +220,7 @@ const Position1 = () => {
             options: [''],
     },
     {
-      id: 10,
+      id: 12,
       image: "/images/icons8-licence-48.png",
       role: "Auto V Card",
       type: "WEB-APPLICATION",
@@ -242,7 +251,7 @@ const Position1 = () => {
     },
     
      {
-      id: 11,
+      id: 13,
       image: "/images/icons8-tourism-96.png",
       role: "Tourism Experience",
       type: "WEB-APPLICATION",
