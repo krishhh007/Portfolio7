@@ -36,7 +36,7 @@
         "title": "BMI-CALCULATOR",
         "stack": ["FLUTTER"],
         "description": "The Body Mass Calculator App is a simple application designed to calculate the body mass index (BMI) of an individual. BMI is a commonly used measure to determine if a person has a healthy weight for their height. The app is built in Flutter and can be easily used on any device. The user enters their weight and height, and the app automatically calculates their BMI and displays the results.",
-        "link": "https://github.com/Krishnaraj017/BMI-Calculator",
+        "link": "https://bmicalculcwebapp.netlify.app/",
         "code": "https://github.com/Krishnaraj017/BMI-Calculator"
     },
         {
