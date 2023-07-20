@@ -66,7 +66,10 @@ const Position1 = () => {
       role: "FitLife",
       type: "WEB-APP",
       date: "7/2023",
-      skills: [{ id: 1, name: "Flutter", image: "/images/flutter.png" },],
+      skills: [{ id: 1, name: "Flutter", image: "/images/flutter.png" },
+                 { id: 18, name: "Netlify", image: "/images/netlify.png" },
+             
+              ],
     },
 
       {
