@@ -4,7 +4,7 @@ import { FaMapMarkerAlt } from "react-icons/fa";
 import { SiGnubash } from "react-icons/si";
 import { IoSchoolSharp } from "react-icons/io5";
 const Header = () => {
-  const [name] = useState<string>("Krishnaraj S");
+  const [name] = useState<string>("Krishnaraj Shetty");
   const [role] = useState<string>("Aspiring Full Stack Engineer");
   const [location] = useState<string>("India, Karnataka");
   const [exp] = useState<string>("Student");
