@@ -34,7 +34,7 @@
    
 
         {
-        "id": 6,
+        "id": 5,
         "title": "CHATBOT FOR BUSINESS WORK",
         "stack": ["ANDROID-STUDIO", "FIREBASE", "JAVA", "BRAINSHOP API"],
         "description": "The chatbot interprets the user's input, understands the context and intent, and generates relevant responses accordingly. It can answer questions, provide recommendations, perform tasks, offer customer support, and even engage in casual conversations.",
@@ -44,7 +44,7 @@
    
       
          {
-        "id": 9,
+        "id": 6,
         "title": "EMOTION DETECTOR",
         "stack": ["Python", "OpenCV", "Keras", "TensorFlow"],
         "description": "This project is an implementation of Emotion Detection using Keras, AI, and Python. It uses a deep neural network (DNN) to analyze facial expressions and detect the emotion being displayed. The DNN is trained on a dataset of images labeled with the four basic emotions: happy, sad, angry, surprised.",
@@ -52,7 +52,7 @@
         "code": "https://github.com/Krishnaraj017/Emotion-Detector"
     },
      {
-        "id": 10,
+        "id": 7,
         "title": "AUTO V CARD",
         "stack": ["HTML", "CSS", "FLASK", "MYSQL", "PHP", "APACHE"],
         "description": "Auto V Card is a web application that enables users to manage and retrieve their RTO data in a PDF format. It provides a convenient way to store and organize vehicle-related information using a user-friendly interface.",
@@ -60,7 +60,7 @@
         "code": "https://github.com/Krishnaraj017/AutoVcard"
     },
      {
-        "id": 11,
+        "id": 8,
         "title": "TOURISM EXPERIENCE",
         "stack": ["HTML", "CSS", "JAVASCRIPT"],
         "description": "Website for Tourists.",
@@ -68,7 +68,7 @@
         "code": "https://github.com/Krishnaraj017/TOURISM-AND-EXPERIENCE"
     },
     {
-        "id": 12,
+        "id": 9,
         "title": "FIND MY PG",
         "stack": ["REACT NATIVE", "EXPO"],
         "description": "Find My PG App is a mobile application designed to assist college students in finding nearby rental rooms or paying for guest accommodations. Whether you're a student moving to a new city or searching for a better living arrangement, this app simplifies the process by providing a platform to discover suitable options conveniently.",
