@@ -31,14 +31,7 @@
         "link": "https://github.com/Krishnaraj017/CLI-Game-Node.js-",
         "code": "https://github.com/Krishnaraj017/CLI-Game-Node.js-"
     },
-    {
-        "id": 5,
-        "title": "EMOTION EYE",
-        "stack": ["ANDROID-STUDIO", "KOTLIN", "FIREBASE ML"],
-        "description": "EmotionEye is an emotion detection application, especially smile and it is built using Firebase ML Kit and Kotlin. It leverages the power of machine learning to analyze and identify human emotions from images accurately. With EmotionEye, you can gain valuable insights into the emotional states of individuals, enabling you to develop applications in various domains such as market research, customer feedback analysis, and human-computer interaction.",
-        "link": "https://github.com/Krishnaraj017/EmotionEye",
-        "code": "https://github.com/Krishnaraj017/EmotionEye"
-    },
+   
 
         {
         "id": 6,
@@ -48,22 +41,8 @@
         "link": "https://github.com/Krishnaraj017/ChatBot-App",
         "code": "https://github.com/Krishnaraj017/ChatBot-App"
     },
-    {
-        "id": 7,
-        "title": "CHAT-GPT",
-        "stack": ["FLUTTER", "OPEN-AI"],
-        "description": "ChatGPT App is a simple mobile application built on Flutter, which allows users to chat with an AI-powered conversational agent called ChatGPT. ChatGPT is a language model trained by OpenAI, based on the GPT-3.5 architecture, which can understand and respond to natural language input.",
-        "link": "https://github.com/Krishnaraj017/ChatGPT-App",
-        "code": "https://github.com/Krishnaraj017/ChatGPT-App"
-    },
-        {
-        "id": 8,
-        "title": "OBJECT MOTION DETECTOR",
-        "stack": ["Python", "OpenCV", "Pandas"],
-        "description": "This project detects motion in a video stream from a webcam and generates a CSV file with the start and end times of each motion event.",
-        "link": "https://github.com/Krishnaraj017/Object-Motion-detector",
-        "code": "https://github.com/Krishnaraj017/Object-Motion-detector"
-    },
+   
+      
          {
         "id": 9,
         "title": "EMOTION DETECTOR",
