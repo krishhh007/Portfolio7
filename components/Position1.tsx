@@ -70,6 +70,7 @@ const Position1 = () => {
                  { id: 2, name: "Netlify", image: "/images/netlify.png" },
                  { id: 3, name: "Github", image: "/images/icons8-github-50.png" },
               ],
+            options: [''],
     },
 
       {
