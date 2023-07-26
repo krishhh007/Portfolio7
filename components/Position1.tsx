@@ -93,32 +93,32 @@ const Position1 = () => {
       ],
             options: [''],
     },
-     {
-      id: 5,
-      image: "/images/icons8-emotion-96.png",
-      role: "EmotionEye",
-      type: "ANDROID-APP",
-      date: "7/2023 ",
+    //  {
+    //   id: 5,
+    //   image: "/images/icons8-emotion-96.png",
+    //   role: "EmotionEye",
+    //   type: "ANDROID-APP",
+    //   date: "7/2023 ",
 
-      skills: [
-        {
-          id: 1,
-          name: "Android-Studio",
-          image: "/images/icons8-android-studio-48.png",
-        },
-        {
-          id: 2,
-          name: "Kotlin",
-          image: "/images/icons8-kotlin-96.png",
-        },
-        {
-          id: 3,
-          name: "Firebase ML",
-          image: "/images/firebaseml.jpg",
-        },
-      ],
-            options: [''],
-    },
+    //   skills: [
+    //     {
+    //       id: 1,
+    //       name: "Android-Studio",
+    //       image: "/images/icons8-android-studio-48.png",
+    //     },
+    //     {
+    //       id: 2,
+    //       name: "Kotlin",
+    //       image: "/images/icons8-kotlin-96.png",
+    //     },
+    //     {
+    //       id: 3,
+    //       name: "Firebase ML",
+    //       image: "/images/firebaseml.jpg",
+    //     },
+    //   ],
+    //         options: [''],
+    // },
     {
       id: 6,
       image: "/images/icons8-building-64.png",
@@ -136,14 +136,14 @@ const Position1 = () => {
       options: [''],
     },
 
-    {
-      id: 7,
-      image: "/images/icons8-body-mass-index-64.png",
-      role: "BMI-CALCULATOR",
-      type: "HYBRID-APP",
-      date: "1/2023",
-      skills: [{ id: 1, name: "Flutter", image: "/images/flutter.png" }],
-    },
+    // {
+    //   id: 7,
+    //   image: "/images/icons8-body-mass-index-64.png",
+    //   role: "BMI-CALCULATOR",
+    //   type: "HYBRID-APP",
+    //   date: "1/2023",
+    //   skills: [{ id: 1, name: "Flutter", image: "/images/flutter.png" }],
+    // },
     {
       id: 8,
       image: "/images/icons8-chatbot-64.png",
@@ -163,43 +163,43 @@ const Position1 = () => {
             options: [''],
     },
 
-    {
-      id: 9,
-      image: "/images/chatgpt.webp",
-      role: "CHAT-GPT ",
-      type: "Hybrid App",
-            date: "3/2023 ",
-      skills: [
-        {
-          id: 1,
-          name: "Flutter",
-          image: "/images/flutter.png",
-        },
-        { id: 2, name: "Open-AI", image: "/images/openai.webp" },
-      ],
-            options: [''],
-    },
-    {
-      id: 10,
-      image: "/images/icons8-motion-detector-48.png",
-      role: "OBJECT MOTION DETECTOR",
-      type: "computer vision project",
-        date: "4/2023 ",
-      skills: [
-        {
-          id: 1,
-          name: "Python",
-          image: "/images/python.png",
-        },
-        { id: 2, name: "OpenCV", image: "/images/icons8-opencv-48.png" },
-        {
-          id: 3,
-          name: "Pandas",
-          image: "/images/pandas.png",
-        },
-      ],
-            options: [''],
-    },
+    // {
+    //   id: 9,
+    //   image: "/images/chatgpt.webp",
+    //   role: "CHAT-GPT ",
+    //   type: "Hybrid App",
+    //         date: "3/2023 ",
+    //   skills: [
+    //     {
+    //       id: 1,
+    //       name: "Flutter",
+    //       image: "/images/flutter.png",
+    //     },
+    //     { id: 2, name: "Open-AI", image: "/images/openai.webp" },
+    //   ],
+    //         options: [''],
+    // },
+    // {
+    //   id: 10,
+    //   image: "/images/icons8-motion-detector-48.png",
+    //   role: "OBJECT MOTION DETECTOR",
+    //   type: "computer vision project",
+    //     date: "4/2023 ",
+    //   skills: [
+    //     {
+    //       id: 1,
+    //       name: "Python",
+    //       image: "/images/python.png",
+    //     },
+    //     { id: 2, name: "OpenCV", image: "/images/icons8-opencv-48.png" },
+    //     {
+    //       id: 3,
+    //       name: "Pandas",
+    //       image: "/images/pandas.png",
+    //     },
+    //   ],
+    //         options: [''],
+    // },
     {
       id: 11,
       image: "/images/icons8-emotion-64.png",
