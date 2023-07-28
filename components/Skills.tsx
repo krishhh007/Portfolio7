@@ -14,7 +14,7 @@ const Skills = () => {
       },
       
 
-      { id: 6, name: "figma", image: "/images/figma.png" },
+      { id: 6, name: "Jetpack Compose", image: "/images/jetpack.png"},
       
       { id:7, name: "node", image: "/images/node.png" },
       { id: 8, name: "express", image: "/images/express.png" },
