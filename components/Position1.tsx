@@ -63,7 +63,7 @@ const Position1 = () => {
         {
       id: 3,
       image: "/images/icons8-body-mass-index-64.png",
-      role: "FitLife",
+      role: "AI-Life",
       type: "WEB-APP",
       date: "7/2023",
       skills: [{ id: 1, name: "Flutter", image: "/images/flutter.png" },
