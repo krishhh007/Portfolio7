@@ -1,7 +1,7 @@
 [
         {
         "id": 1,
-        "title": "FitLife",
+        "title": "AI-Life",
         "stack": ["FLUTTER"],
         "description": "FitLife is a simple Progressive Web Application (PWA) that aims to assist users in maintaining their fitness by offering various shortcut tools in one place. Currently under development, the application already provides features such as calculating the Body Mass Index (BMI) of an individual. As development progresses, additional functionalities and tools are expected to be added to enhance the user's fitness experience.",
         "link": "https://fitlifeweb.netlify.app/",
