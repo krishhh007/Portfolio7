@@ -145,24 +145,24 @@ const Position1 = () => {
     //   date: "1/2023",
     //   skills: [{ id: 1, name: "Flutter", image: "/images/flutter.png" }],
     // },
-    {
-      id: 8,
-      image: "/images/icons8-chatbot-64.png",
-      role: "ChatBot For business work",
-      type: "ANDROID-APP",
-      //date: "4/2020 - present",
-      date: "4/2023",
-      skills: [
-        {
-          id: 1,
-          name: "Android Studio",
-          image: "/images/icons8-android-studio-48.png",
-        },
-        { id: 2, name: "Firebase", image: "/images/icons8-firebase-48.png" },
-        { id: 3, name: "Java", image: "/images/icons8-java-64.png" },
-      ],
-            options: [''],
-    },
+    // {
+    //   id: 8,
+    //   image: "/images/icons8-chatbot-64.png",
+    //   role: "ChatBot For business work",
+    //   type: "ANDROID-APP",
+    //   //date: "4/2020 - present",
+    //   date: "4/2023",
+    //   skills: [
+    //     {
+    //       id: 1,
+    //       name: "Android Studio",
+    //       image: "/images/icons8-android-studio-48.png",
+    //     },
+    //     { id: 2, name: "Firebase", image: "/images/icons8-firebase-48.png" },
+    //     { id: 3, name: "Java", image: "/images/icons8-java-64.png" },
+    //   ],
+    //         options: [''],
+    // },
 
     // {
     //   id: 9,
