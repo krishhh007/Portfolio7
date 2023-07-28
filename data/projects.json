@@ -4,7 +4,7 @@
         "title": "AI-Life",
         "stack": ["FLUTTER"],
         "description": "FitLife is a simple Progressive Web Application (PWA) that aims to assist users in maintaining their fitness by offering various shortcut tools in one place. Currently under development, the application already provides features such as calculating the Body Mass Index (BMI) of an individual. As development progresses, additional functionalities and tools are expected to be added to enhance the user's fitness experience.",
-        "link": "https://fitlifeweb.netlify.app/",
+        "link": "https://ailife.netlify.app/",
         "code": "https://github.com/Krishnaraj017/FitLife"
     },
     {
@@ -33,14 +33,7 @@
     },
    
 
-        {
-        "id": 5,
-        "title": "CHATBOT FOR BUSINESS WORK",
-        "stack": ["ANDROID-STUDIO", "FIREBASE", "JAVA", "BRAINSHOP API"],
-        "description": "The chatbot interprets the user's input, understands the context and intent, and generates relevant responses accordingly. It can answer questions, provide recommendations, perform tasks, offer customer support, and even engage in casual conversations.",
-        "link": "https://github.com/Krishnaraj017/ChatBot-App",
-        "code": "https://github.com/Krishnaraj017/ChatBot-App"
-    },
+
    
       
          {
