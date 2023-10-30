@@ -73,27 +73,27 @@ const Position1 = () => {
             options: [''],
     },
 
-      {
-      id: 4,
-      image: "/images/icons8-quiz-64.png",
-      role: "quiz game",
-      type: "Node.js CLI game",
-        date: "4/2023 ",
-      skills: [
-        {
-          id: 1,
-          name: "Node.js",
-          image: "/images/node.png",
-        },
-        { id: 2, name: "javascript", image: "/images/javascript.png" },
-        {
-          id: 3,
-          name: "Node Package Manager (NPM)",
-          image: "/images/icons8-npm-48.png",
-        },
-      ],
-            options: [''],
-    },
+    //   {
+    //   id: 4,
+    //   image: "/images/icons8-quiz-64.png",
+    //   role: "quiz game",
+    //   type: "Node.js CLI game",
+    //     date: "4/2023 ",
+    //   skills: [
+    //     {
+    //       id: 1,
+    //       name: "Node.js",
+    //       image: "/images/node.png",
+    //     },
+    //     { id: 2, name: "javascript", image: "/images/javascript.png" },
+    //     {
+    //       id: 3,
+    //       name: "Node Package Manager (NPM)",
+    //       image: "/images/icons8-npm-48.png",
+    //     },
+    //   ],
+    //         options: [''],
+    // },
     //  {
     //   id: 5,
     //   image: "/images/icons8-emotion-96.png",
@@ -120,22 +120,22 @@ const Position1 = () => {
     //   ],
     //         options: [''],
     // },
-    {
-      id: 6,
-      image: "/images/icons8-building-64.png",
-      role: "Find My PG ",
-      type: "Hybrid App",
-      date: "7/2022 ",
-      skills: [
-        {
-          id: 1,
-          name: "React Native",
-          image: "/images/react.png",
-        },
-        { id: 2, name: "Expo", image: "/images/expo.png" },
-      ],
-      options: [''],
-    },
+    // {
+    //   id: 6,
+    //   image: "/images/icons8-building-64.png",
+    //   role: "Find My PG ",
+    //   type: "Hybrid App",
+    //   date: "7/2022 ",
+    //   skills: [
+    //     {
+    //       id: 1,
+    //       name: "React Native",
+    //       image: "/images/react.png",
+    //     },
+    //     { id: 2, name: "Expo", image: "/images/expo.png" },
+    //   ],
+    //   options: [''],
+    // },
 
     // {
     //   id: 7,
@@ -201,28 +201,28 @@ const Position1 = () => {
     //   ],
     //         options: [''],
     // },
-    {
-      id: 11,
-      image: "/images/icons8-emotion-64.png",
-      role: "EMOTION DETECTOR",
-      type: "computer vision project",
-        date: "3/2023",
-      skills: [
-        {
-          id: 1,
-          name: "Python",
-          image: "/images/python.png",
-        },
-        { id: 2, name: "OpenCV", image: "/images/icons8-opencv-48.png" },
-        {
-          id: 3,
-          name: "Keras",
-          image: "/images/keras.png",
-        },
-        { id: 4, name: "TensorFlow", image: "/images/tenserflow.jpg" },
-      ],
-            options: [''],
-    },
+    // {
+    //   id: 11,
+    //   image: "/images/icons8-emotion-64.png",
+    //   role: "EMOTION DETECTOR",
+    //   type: "computer vision project",
+    //     date: "3/2023",
+    //   skills: [
+    //     {
+    //       id: 1,
+    //       name: "Python",
+    //       image: "/images/python.png",
+    //     },
+    //     { id: 2, name: "OpenCV", image: "/images/icons8-opencv-48.png" },
+    //     {
+    //       id: 3,
+    //       name: "Keras",
+    //       image: "/images/keras.png",
+    //     },
+    //     { id: 4, name: "TensorFlow", image: "/images/tenserflow.jpg" },
+    //   ],
+    //         options: [''],
+    // },
     {
       id: 12,
       image: "/images/icons8-licence-48.png",
