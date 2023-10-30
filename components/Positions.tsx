@@ -6,7 +6,7 @@ const Positions = () => {
     {
       id: 1,
       image: "/images/ROS.jpg",
-      role: "Rosette Smart Bottles-Full Stack Flutter Intern",
+      role: "Rosette Smart Bottles",
       type: "hybrid",
       date: "05/2023 - present, 3mos",
       skills: [
