@@ -29,37 +29,37 @@ const Position1 = () => {
       ],
        options: [''],
     },
-    {
-      id: 2,
-      image: "/images/icons8-school-64.png",
-      role: "JOB_FINDER",
-      type: "HYBRID-APP",
-      date: "4/2023 ",
+    // {
+    //   id: 2,
+    //   image: "/images/icons8-school-64.png",
+    //   role: "JOB_FINDER",
+    //   type: "HYBRID-APP",
+    //   date: "4/2023 ",
 
-      skills: [
-        {
-          id: 1,
-          name: "React Native",
-          image: "/images/react.png",
-        },
-        {
-          id: 2,
-          name: "Expo",
-          image: "/images/expo.png",
-        },
-        {
-          id: 3,
-          name: "RapidAPI",
-          image: "/images/rapidapi.png",
-        },
-        {
-          id: 4,
-          name: "Insomnia",
-          image: "/images/insomnia.png",
-        },
-      ],
-            options: [''],
-    },
+    //   skills: [
+    //     {
+    //       id: 1,
+    //       name: "React Native",
+    //       image: "/images/react.png",
+    //     },
+    //     {
+    //       id: 2,
+    //       name: "Expo",
+    //       image: "/images/expo.png",
+    //     },
+    //     {
+    //       id: 3,
+    //       name: "RapidAPI",
+    //       image: "/images/rapidapi.png",
+    //     },
+    //     {
+    //       id: 4,
+    //       name: "Insomnia",
+    //       image: "/images/insomnia.png",
+    //     },
+    //   ],
+    //         options: [''],
+    // },
         {
       id: 3,
       image: "/images/icons8-productivity-64.png",
@@ -254,25 +254,25 @@ const Position1 = () => {
             options: [''],
     },
     
-     {
-      id: 13,
-      image: "/images/icons8-tourism-96.png",
-      role: "Tourism Experience",
-      type: "WEB-APPLICATION",
-        date: "5/2020 ",
-      skills: [
-        {
-          id: 1,
-          name: "HTML",
-          image: "/images/html.png",
-        },
-        { id: 2, name: "CSS", image: "/images/css.png" },
-        {
-          id: 3, name: "javascript", image: "/images/javascript.png"
-        },
-      ],
-            options: [''],
-    },
+    //  {
+    //   id: 13,
+    //   image: "/images/icons8-tourism-96.png",
+    //   role: "Tourism Experience",
+    //   type: "WEB-APPLICATION",
+    //     date: "5/2020 ",
+    //   skills: [
+    //     {
+    //       id: 1,
+    //       name: "HTML",
+    //       image: "/images/html.png",
+    //     },
+    //     { id: 2, name: "CSS", image: "/images/css.png" },
+    //     {
+    //       id: 3, name: "javascript", image: "/images/javascript.png"
+    //     },
+    //   ],
+    //         options: [''],
+    // },
   
   ]);
   return (
