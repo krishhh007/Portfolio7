@@ -8,7 +8,7 @@ const Positions = () => {
       image: "/images/ROS.jpg",
       role: "Rosette Smart Bottles",
       type: "Flutter Freelancer",
-      date: "05/2023 - present, 3mos",
+      date: "05/2023 - present, 7 mos",
       skills: [
         { id: 1, name: "Figma", image: "/images/figma.png" },
         { id: 2, name: "Flutter", image: "/images/flutter.png" },
