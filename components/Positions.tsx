@@ -19,7 +19,7 @@ const Positions = () => {
         { id: 6, name: "GitHub", image: "/images/git.png" },
       ],
       links: [
-        { id: 1, url: "https://www.rosettesmartbottles.com/" },
+        { id: 1, url: "https://rosettesmartlife.com/" },
         { id: 2, url: "https://shorturl.at/zGIW0" }
       ],
     },
