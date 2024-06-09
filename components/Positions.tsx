@@ -6,21 +6,15 @@ const Positions = () => {
     {
       id: 1,
       image: "/images/ROS.jpg",
-      role: "Rosette Smart Bottles",
-      type: "Flutter Freelancer",
+      role: "Rosette Smart Life",
+      type: "Co-Founder & COO",
       date: "05/2023 - present, 7 mos",
       skills: [
-        { id: 1, name: "Figma", image: "/images/figma.png" },
-        { id: 2, name: "Flutter", image: "/images/flutter.png" },
-        { id: 3, name: "bloc", image: "/images/bloc.webp" },
-                { id: 4, name: "Postman", image: "/images/postmanicon.png" },
 
-        { id: 5, name: "REST API's", image: "/images/icons8-rest-api-64.png" },
-        { id: 6, name: "GitHub", image: "/images/git.png" },
       ],
       links: [
         { id: 1, url: "https://rosettesmartlife.com/" },
-        { id: 2, url: "https://shorturl.at/zGIW0" }
+        { id: 2, url: "https://rosettesmartlife.com/" }
       ],
     },
   ]);
