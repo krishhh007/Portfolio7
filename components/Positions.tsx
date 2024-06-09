@@ -8,7 +8,7 @@ const Positions = () => {
       image: "/images/ROS.jpg",
       role: "Rosette Smart Life",
       type: "Co-Founder & COO",
-      date: "05/2023 - present, 7 mos",
+      date: "6/2024 - present",
       skills: [
 
       ],
