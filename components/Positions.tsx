@@ -7,14 +7,13 @@ const Positions = () => {
       id: 1,
       image: "/images/ROS.jpg",
       role: "Rosette Smart Life",
-      type: "Co-Founder & COO",
-      date: "6/2024 - present",
+      type: "COO & Software developer",
+      date: "5/2023 - 6/2024",
       skills: [
 
       ],
       links: [
-        { id: 1, url: "https://rosettesmartlife.com/" },
-        { id: 2, url: "https://rosettesmartlife.com/" }
+        
       ],
     },
   ]);
