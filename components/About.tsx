@@ -3,7 +3,7 @@ import { FaHandPaper } from "react-icons/fa";
 const About = () => {
   const [heading] = useState<string>("hello everyone");
   const [description] = useState<string>(
-"Highly motivated recent Computer Science graduate with a passion for AI & ML seeking a challenging role that leverages both technical and business acumen. Eager to contribute to a culture of innovation and make a tangible impact on an organization's success." );
+"I am a Computer Science and Engineering student with proven experience in software development at an early-stage startup. I have a strong understanding of SOLID principles and am eager to leverage my skills to enhance my domain and technical expertise. I am committed to contributing to the organization's overall success by applying my knowledge and dedication effectively." );
   return (
     <div className="py-6 border-b border-zinc-700">
       <h3 className="text-gray-400 capitalize text-lg font-medium">about me</h3>
